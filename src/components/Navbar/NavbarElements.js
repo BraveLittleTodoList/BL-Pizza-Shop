@@ -35,7 +35,7 @@ export const NavIcon = styled.div`
 
 
     p{
-        transform: translate(-175%, 100%);
+        transform: translate(-175%, 125%);
         font-weight: bold;
     }
 `;
